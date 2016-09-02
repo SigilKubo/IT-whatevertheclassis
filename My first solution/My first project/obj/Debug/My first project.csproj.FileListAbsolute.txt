@@ -1,0 +1,6 @@
+C:\Users\Tales of Inspiron\Desktop\My first solution\My first project\bin\Debug\My first project.exe.config
+C:\Users\Tales of Inspiron\Desktop\My first solution\My first project\bin\Debug\My first project.exe
+C:\Users\Tales of Inspiron\Desktop\My first solution\My first project\bin\Debug\My first project.pdb
+C:\Users\Tales of Inspiron\Desktop\My first solution\My first project\obj\Debug\My first project.csprojResolveAssemblyReference.cache
+C:\Users\Tales of Inspiron\Desktop\My first solution\My first project\obj\Debug\My first project.exe
+C:\Users\Tales of Inspiron\Desktop\My first solution\My first project\obj\Debug\My first project.pdb
