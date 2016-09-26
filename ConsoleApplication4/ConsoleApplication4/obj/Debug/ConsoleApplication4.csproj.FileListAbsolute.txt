@@ -1,0 +1,6 @@
+C:\Users\Tales of Inspiron\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Tales of Inspiron\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Tales of Inspiron\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Tales of Inspiron\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Tales of Inspiron\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Tales of Inspiron\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
