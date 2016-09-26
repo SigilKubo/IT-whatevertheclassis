@@ -58,10 +58,9 @@
         }
         public void PrintNameAndAge()
         {
-            System.Console.WriteLine(this.GetFullName());
-            System.Console.WriteLine ("{"this.Age"}");
-            System.Console.WriteLine(this.GetSpouseFullName());
-            System.Console.WriteLine("{"this.Spouse.Age"}");
+            System.Console.WriteLine(GetFullName() + "  "  + "{" + this.Age + "}");
+            System.Console.WriteLine(GetSpouseFullName() + "  " + "{" + this.Spouse.Age + "}");
+
 
 
 

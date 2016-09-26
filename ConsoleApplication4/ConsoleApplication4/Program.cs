@@ -34,7 +34,10 @@ namespace ConsoleApplication4
             p1.PrintNameAndAge();
             p2.PrintNameAndAge();
 
-            System.Console.WriteLine(Person.AverageAgeOfEveryone());
+            System.Console.WriteLine("                               ");
+
+
+            System.Console.WriteLine("Average Age = " + Person.AverageAgeOfEveryone());
 
         }
     }
