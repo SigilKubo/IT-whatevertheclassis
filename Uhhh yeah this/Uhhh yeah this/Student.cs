@@ -10,26 +10,33 @@ namespace Uhhh_yeah_this
     {
         private string Name;
         private int Grade;
-        private Instructors Teacher;
-       
-       
-        public void SetGrade(Instructors Teach, int SetGrade )
+        private Instructor Teacher;
+//////////////////////////////////////////////////////
+        public int getgrade()
         {
-
-
+            return this.Grade;
         }
+       public void SetGrade(int x)
+        { 
+            this.Grade = x;
+        }
+
         public Student()
         {
             Grade = 0;
-
         }
-        
-        public Student(string Name, Instructors theTeacher)
+  /////////////////////////////////////////////////////////////////////////////////////////////////////      
+        public Student(string name, Instructor theTeacher)
         {
-
-            this.Name = Name;
+            this.Name = name;
             this.Teacher = theTeacher;
         }
-     
+    public void PrintAllInformation()
+
+        {
+
+
+        }
+
     }
 }

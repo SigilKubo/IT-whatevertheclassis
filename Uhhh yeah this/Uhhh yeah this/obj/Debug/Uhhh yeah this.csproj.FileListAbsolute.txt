@@ -1,3 +1,15 @@
 C:\Users\s01011484\Desktop\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.exe.config
 C:\Users\s01011484\Desktop\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.csprojResolveAssemblyReference.cache
 C:\Users\Tales of Inspiron\Desktop\Sigh homework\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.exe.config
+C:\Users\s01011484\Desktop\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.exe.config
+C:\Users\s01011484\Desktop\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.exe
+C:\Users\s01011484\Desktop\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.pdb
+C:\Users\s01011484\Desktop\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.csprojResolveAssemblyReference.cache
+C:\Users\s01011484\Desktop\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.exe
+C:\Users\s01011484\Desktop\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.pdb
+C:\Users\Tales of Inspiron\Desktop\dsad\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.exe.config
+C:\Users\Tales of Inspiron\Desktop\dsad\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.exe
+C:\Users\Tales of Inspiron\Desktop\dsad\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.exe
+C:\Users\Tales of Inspiron\Desktop\dsad\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\bin\Debug\Uhhh yeah this.pdb
+C:\Users\Tales of Inspiron\Desktop\dsad\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.csprojResolveAssemblyReference.cache
+C:\Users\Tales of Inspiron\Desktop\dsad\IT-whatevertheclassis-master\IT-whatevertheclassis-master\Uhhh yeah this\Uhhh yeah this\obj\Debug\Uhhh yeah this.pdb

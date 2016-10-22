@@ -10,14 +10,17 @@ namespace Uhhh_yeah_this
     {
         static void Main(string[] args)
         {
-            Instructors John = new Instructors("John", "Fuckboy", "English");
-            Instructors Mike = new Instructors("Mike", "Fuckboy", "Math");
+            Instructor John = new Instructor("John", "English");
+            Instructor Mike = new Instructor("Mike", "Math");
             Student Jane = new Student("Jane", John);
             Student Joe = new Student("Joe", John);
             Student Melissa = new Student("Melissa", Mike);
             Student Matt = new Student("Matt", Mike);
 
-
+            John.SetStudentGrade(Jane, 95);
+            John.SetStudentGrade(Joe, 85);
+            Mike.SetStudentGrade(Melissa, 90);
+            Mike.SetStudentGrade(Matt, 92);
         }
     }
 }
