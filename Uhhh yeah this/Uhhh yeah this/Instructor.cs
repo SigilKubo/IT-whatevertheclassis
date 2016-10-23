@@ -10,6 +10,10 @@ namespace Uhhh_yeah_this
     {
         private string FirstName;
         private string CourseName;
+
+        public string GetNameandCourse()
+        { return this.FirstName + " who teaches " + this.CourseName + ".   ";
+        }
 ////////////////////////////////////////////////////////////////////////
         public Instructor(string teacherFirstName, string courseName)
         {
@@ -24,7 +28,7 @@ namespace Uhhh_yeah_this
 
         public void PrintNameAndCourse()
         {
-            System.Console.WriteLine(this.FirstName + this.CourseName);
+         System.Console.WriteLine(GetNameandCourse());
         }
 
 

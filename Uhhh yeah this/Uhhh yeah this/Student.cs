@@ -31,12 +31,11 @@ namespace Uhhh_yeah_this
             this.Name = name;
             this.Teacher = theTeacher;
         }
-    public void PrintAllInformation()
+        public void PrintAllInformation()
 
         {
-
-
-        }
+            Fancy.Studentinfo(this.Name, this.Grade, this.Teacher);
+                }
 
     }
 }

@@ -10,6 +10,9 @@ namespace Uhhh_yeah_this
     {
         static void Main(string[] args)
         {
+            Fancy.Title();
+            Fancy.SpaceDivider();
+
             Instructor John = new Instructor("John", "English");
             Instructor Mike = new Instructor("Mike", "Math");
             Student Jane = new Student("Jane", John);
@@ -21,6 +24,21 @@ namespace Uhhh_yeah_this
             John.SetStudentGrade(Joe, 85);
             Mike.SetStudentGrade(Melissa, 90);
             Mike.SetStudentGrade(Matt, 92);
+
+            Fancy.Divider();
+            Jane.PrintAllInformation();
+            Fancy.Divider();
+            Joe.PrintAllInformation();
+            Fancy.Divider();
+            Melissa.PrintAllInformation();
+            Fancy.Divider();
+            Matt.PrintAllInformation();
+            Fancy.Divider();
+
+            Fancy.SpaceDivider();
+
+            System.Console.WriteLine("Press any key to continue...");
+            System.Console.ReadKey();
         }
     }
 }
