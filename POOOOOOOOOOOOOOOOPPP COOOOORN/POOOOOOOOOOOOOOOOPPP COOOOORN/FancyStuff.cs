@@ -25,19 +25,21 @@ namespace POOOOOOOOOOOOOOOOPPP_COOOOORN
 
         }
 
-
-        
         public static void Question()
+
         {
-            FancyStuff.StoreClerk("Hi Welcome to the movies. Will this be a day or an evening movie?");
-            
+            FancyStuff.StoreClerk(" Hi. Will this be a Matinee? ");
 
         }
+
+
+        
+
         
 
         public static void Endencounter()
         {
-            FancyStuff.StoreClerk(" Thank you for choosing ChiraqBangbang Cinema! ");
+            FancyStuff.StoreClerk(" Thank you for choosing This Terrible Code Cinema! ");
             Console.WriteLine("Press Any Key to continue...");
             System.Console.ReadKey();
 
