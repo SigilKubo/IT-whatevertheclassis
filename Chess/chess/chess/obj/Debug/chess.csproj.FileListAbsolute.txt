@@ -1,0 +1,12 @@
+c:\users\s01011484\documents\visual studio 2013\Projects\chess\chess\bin\Debug\chess.exe.config
+c:\users\s01011484\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache
+c:\users\s01011484\documents\visual studio 2013\Projects\chess\chess\bin\Debug\chess.exe
+c:\users\s01011484\documents\visual studio 2013\Projects\chess\chess\bin\Debug\chess.pdb
+c:\users\s01011484\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.exe
+c:\users\s01011484\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.pdb
+C:\Users\Tales of Inspiron\Desktop\Chess\chess\chess\bin\Debug\chess.exe.config
+C:\Users\Tales of Inspiron\Desktop\Chess\chess\chess\obj\Debug\chess.exe
+C:\Users\Tales of Inspiron\Desktop\Chess\chess\chess\obj\Debug\chess.pdb
+C:\Users\Tales of Inspiron\Desktop\Chess\chess\chess\bin\Debug\chess.exe
+C:\Users\Tales of Inspiron\Desktop\Chess\chess\chess\bin\Debug\chess.pdb
+C:\Users\Tales of Inspiron\Desktop\Chess\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache
